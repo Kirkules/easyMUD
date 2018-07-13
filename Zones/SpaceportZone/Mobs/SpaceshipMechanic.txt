@@ -1,0 +1,11 @@
+Spaceship Mechanic
+A person carrying a large mechanic's toolbox is here.
+3
+This guy is clearly a spaceship mechanic working at the spaceport. His huge
+toolbox seems to give him no trouble at all as he pushes it floating along
+beside him.
+2
+13 emote pulls some things out of his toolbox and puts other things back in.
+18 emote fiddles with something under an open hatch on a spaceship.
+1
+mechanic

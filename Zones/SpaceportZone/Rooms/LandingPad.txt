@@ -1,0 +1,5 @@
+Landing Pad
+3
+This is one of the four landing pads on this small spaceport station. It
+has large robotic arms with enormous magnetic clamps poised to hold down
+spaceships trying to dock at the spaceport.

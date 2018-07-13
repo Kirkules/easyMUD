@@ -1,0 +1,9 @@
+Small Transport
+A small transport ship is docked here.
+2500
+1
+It may be a small ship, but it probably costs more than you.
+3
+transport
+ship
+spaceship

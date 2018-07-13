@@ -1,0 +1,6 @@
+Spaceport
+4
+A bustling outdoor spaceport area, near the landing pads for spaceships.
+Stacks of magnetic shipping crates stick to the floors in awkward places, bits
+of junk and pieces of food from the spaceport's restaurant float by, and dozens
+of travelers and workers tromp around in magnetic boots.

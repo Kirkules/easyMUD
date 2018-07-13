@@ -1,0 +1,14 @@
+Space Restaurant Waiter
+A flustered-looking waiter tries to keep his wits about him here.
+4
+He has his 50 pieces of flair. Some of them are holograms projected near him
+from a device mounted on his shoulder. The smile plastered to his face looks
+forced, because his eyes are saying he wishes his 3 coworkers showed up for
+work this week.
+4
+30 say Have you been helped yet?
+21 say Sorry, it's still going to be at least a 30 minute wait.
+13 emote twists some knobs on his order-taking pad irritatedly.
+33 emote stumbles and nearly drops the 4 plates he's carrying.
+1
+waiter

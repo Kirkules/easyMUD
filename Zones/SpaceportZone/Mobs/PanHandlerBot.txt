@@ -1,0 +1,15 @@
+PH44 Panhandler Bot
+A rather run-down looking robot rolls around here on three awkward wheels.
+4
+More like an animated collection of pipes than a robot. The PH44
+Panhandler Bot stares at you with empty painted-on eyes and by rotating
+an extended pipe-arm back and forth it rattles a single coin in an
+otherwise empty can at you.
+2
+19 wander
+9 say Can you spare some change?
+4
+panhandler
+bot
+robot
+awkward

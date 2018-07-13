@@ -1,0 +1,10 @@
+Galactic Citizen
+A normal looking citizen is here.
+2
+Just a lady. Probably from this galaxy. She's got some gear for surviving
+in space, which isn't surprising given where you've found her.
+2
+11 wander
+14 emote pulls out her datapad and taps on it for a while.
+1
+citizen

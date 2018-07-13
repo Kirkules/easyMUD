@@ -1,0 +1,10 @@
+Lucy's Spaceport Restaurant
+8
+There are restaurant tables and chairs all around, and most of them seem occupied.
+A sign suspended over the restaurant reads "Lucy's Space Fare".
+
+This place seems to be fairly popular. Near the bottom of each ladder is a podium
+with a sign that says "Please wait to be seated." If you remove your space helmet
+you'll detect a strong odor of spices and garlic, the result of an overworked air
+circulation system. Above you is the thin force field holding in the smell, through
+which you can see the brightness of the galaxy stretching across the sky.

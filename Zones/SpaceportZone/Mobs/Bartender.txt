@@ -1,0 +1,13 @@
+Space Bartender Lucille
+A smug looking bartender needlessly rubs a spotless glass with a dirty rag here.
+3
+This lady is looking out at at the restaurant from behind her bar like
+she owns the place. Looking closer, you see she has a nametag that says 
+"Lucille". Maybe she does own the place...
+2
+15 emote makes a squeaking sound as she rubs some oil onto an otherwise clean beer glass.
+22 emote looks proudly around this fine establishment.
+3
+bartender
+lucille
+lucy
