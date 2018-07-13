@@ -1,4 +1,4 @@
-# An easily expandable telnet MUD server
+# An easily expandable MUD server
 *Kirk A. Boyer*
 
 This is a project I made in a Networking for Games class at the University of Denver, taught by Chris GauthierDickey in 2016.
